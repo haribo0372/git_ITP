@@ -1,0 +1,123 @@
+Person {
+	"name": Vasya,
+	"age": 21
+}
+Person {
+	"name": Dimon,
+	"age": 52
+}
+
+Person {
+	"name": BabushkaVKedah,
+	"age": 90
+}
+
+Person {
+	"name": Vitek,
+	"age": 23
+}
+
+Person {
+	"name": Vasya,
+	"age": 21
+}
+
+Person {
+	"name": Vitek,
+	"age": 23
+}
+
+Person {
+	"name": BabushkaVKedah,
+	"age": 90
+}
+
+Person {
+	"name": Vasya,
+	"age": 21
+}
+
+Person {
+	"name": Dimon,
+	"age": 52
+}
+
+Person {
+	"name": Vitek,
+	"age": 23
+}
+
+Person {
+	"name": Vasya,
+	"age": 21
+}
+
+Person {
+	"name": Dimon,
+	"age": 52
+}
+
+Person {
+	"name": BabushkaVKedah,
+	"age": 90
+}
+
+Person {
+	"name": Vasya,
+	"age": 21
+}
+
+Person {
+	"name": Vitek,
+	"age": 23
+}
+
+Person {
+	"name": BabushkaVKedah,
+	"age": 90
+}
+
+Person {
+	"name": Dimon,
+	"age": 52
+}
+
+Person {
+	"name": Vasya,
+	"age": 21
+}
+
+Person {
+	"name": Dimon,
+	"age": 52
+}
+
+Person {
+	"name": BabushkaVKedah,
+	"age": 90
+}
+
+Person {
+	"name": Vitek,
+	"age": 23
+}
+
+Person {
+	"name": Vitek,
+	"age": 23
+}
+
+Person {
+	"name": Vasya,
+	"age": 21
+}
+
+Person {
+	"name": Dimon,
+	"age": 52
+}
+
+Person {
+	"name": BabushkaVKedah,
+	"age": 90
+}
