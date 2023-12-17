@@ -12,15 +12,6 @@ public class Task6 {
                 "\n5. isExact(720) = " + Arrays.toString(isExact(720)) +
                 "\n6. fractions(\"0.19(2367)\") = " + fractions("0.19(2367)") +
                 "\n7. pilish_string() = " + pilish_string("FORALOOP") + "\n");
-
-//        long[] num = new long[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-//        for (int i = 0; i< num.length; i++){
-//            for (int j = 0; j< num.length; j++){
-//                if (gcd(num[i], num[j]) == 2){
-//                    System.out.print("(" + num[i] + ", " + num[j] + "); ");
-//                }
-//            }
-//        }
     }
 
     public static String hiddenAnagram(String s1, String s2) {
